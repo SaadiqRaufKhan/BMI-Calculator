@@ -1,9 +1,9 @@
- //
+//
 //  SecondViewController.swift
 //  BMI Calculator
 //
-//  Created by Saadiq rauf khan on 11/01/20.
-//  Copyright © 2020 Angela Yu. All rights reserved.
+//  Created by Saadiq Rauf Khan on 04/05/2020.
+//  Copyright © 2019 Saadiq Rauf Khan. All rights reserved.
 //
 
 import UIKit
